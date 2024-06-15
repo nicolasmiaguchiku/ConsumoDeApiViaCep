@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1XtyLMlMALC00trBqm6gsfTZfuAu/bnC7EXh9qzcMzhz1zq4LPk/U/GnRhAkYXuZeW6O2TZXlZrSuVtX30beig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keila\\OneDrive\\Área de Trabalho\\ConsumindoApiViaCep\\ConsumindoApiViaCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keila\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\bin\Debug\net8.0\ConsumindoApiViaCep.exe
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\bin\Debug\net8.0\ConsumindoApiViaCep.deps.json
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\bin\Debug\net8.0\ConsumindoApiViaCep.runtimeconfig.json
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\bin\Debug\net8.0\ConsumindoApiViaCep.dll
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\bin\Debug\net8.0\ConsumindoApiViaCep.pdb
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\ConsumindoApiViaCep.csproj.AssemblyReference.cache
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\ConsumindoApiViaCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\ConsumindoApiViaCep.AssemblyInfoInputs.cache
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\ConsumindoApiViaCep.AssemblyInfo.cs
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\ConsumindoApiViaCep.csproj.CoreCompileInputs.cache
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\Consumin.B37A2F19.Up2Date
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\ConsumindoApiViaCep.dll
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\refint\ConsumindoApiViaCep.dll
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\ConsumindoApiViaCep.pdb
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\ConsumindoApiViaCep.genruntimeconfig.cache
+C:\Users\keila\OneDrive\Área de Trabalho\ConsumindoApiViaCep\obj\Debug\net8.0\ref\ConsumindoApiViaCep.dll
